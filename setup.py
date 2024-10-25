@@ -9,9 +9,8 @@ with open("README.md", encoding="utf-8") as fo:
 setup(
     name="my_api",
     version="0.1.0",
-    url="https://github.com/seanbreckenridge/HPI_API",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    url="https://github.com/purarue/HPI_API",
+    author="purarue",
     description=("""An automatic JSON API for HPI"""),
     long_description=long_description,
     long_description_content_type="text/markdown",
